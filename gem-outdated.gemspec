@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "gem-outdated"
   s.version     = Gem::Outdated::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Gert Goet"]
+  s.email       = ["gert@thinkcreate.nl"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{A better gem outdated}
+  s.description = %q{A better gem outdated}
 
   s.rubyforge_project = "gem-outdated"
 
