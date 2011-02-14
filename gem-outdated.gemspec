@@ -1,10 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "gem-outdated/version"
+require "gem_outdated/version"
 
 Gem::Specification.new do |s|
   s.name        = "gem-outdated"
-  s.version     = Gem::Outdated::VERSION
+  s.version     = GemOutdated::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Gert Goet"]
   s.email       = ["gert@thinkcreate.nl"]
