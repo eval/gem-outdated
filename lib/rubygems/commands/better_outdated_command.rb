@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rubygems/dependency'
 
 class Gem::Commands::BetterOutdatedCommand < Gem::Command
-  def initialize(name = 'better_outdated',
+  def initialize(name = 'outdated',
                  summary = 'Display all gems that need updates - with query')
     super name, summary, :name => //
   end
