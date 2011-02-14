@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Gert Goet"]
   s.email       = ["gert@thinkcreate.nl"]
   s.homepage    = ""
-  s.summary     = %q{A better gem outdated}
-  s.description = %q{A better gem outdated}
+  s.summary     = %q{gem outdated => gem outdated STRING}
+  s.description = %q{gem outdated => gem outdated STRING}
 
   s.rubyforge_project = "gem-outdated"
 
