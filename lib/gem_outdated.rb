@@ -1,1 +1,1 @@
-require 'rubygems/commands/better_outdated_command'
+require 'rubygems/commands/outdated_command'
