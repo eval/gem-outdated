@@ -2,6 +2,7 @@ Overview
 ========
 
 The default 'gem outdated' considers *all* gems. For large gemsets this means that:
+
 1. it takes some time
 2. it can produce a long list of gems
 
