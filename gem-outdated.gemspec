@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Gert Goet"]
   s.email       = ["gert@thinkcreate.nl"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/eval/gem-outdated"
   s.summary     = %q{gem outdated => gem outdated STRING}
   s.description = %q{gem outdated => gem outdated STRING}
 
